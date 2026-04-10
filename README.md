@@ -44,6 +44,10 @@ Execute trajectory
 👉 Watch the robot solve the maze  
 https://www.youtube.com/shorts/gi8C1Oyw_Mk  
 
+<h2>🤖 Robot Execution</h2>
+
+<p>The Dobot robot executing the planned path:</p>
+
 <img src="results/IMG_5766.png" width="300">
 
 ⚠️ Challenges & Solutions
