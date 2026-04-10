@@ -3,12 +3,14 @@ Vision-based maze solving robot using Dobot Magician Lite (Computer Vision + BFS
 
 🧩 Dobot Maze Solver Robot
 
-This project implements a vision-based autonomous maze solving system using the Dobot Magician Lite robot.
+This project implements a vision-based autonomous maze solving system using the Dobot Magician Lite robot.  
+
 It integrates:
-Computer Vision (image processing & detection)
-Path Planning using BFS
-Coordinate Transformation (pixel → robot)
-Robotic Motion Execution
+
+Computer Vision (image processing & detection)  
+Path Planning using BFS  
+Coordinate Transformation (pixel → robot)  
+Robotic Motion Execution  
 
 🚀 Features
 
