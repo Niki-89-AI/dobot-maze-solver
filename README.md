@@ -1,7 +1,9 @@
 # dobot-maze-solver
 Vision-based maze solving robot using Dobot Magician Lite (Computer Vision + BFS + Robot Control)
 
-🧩 Dobot Maze Solver Robot
+🧩 Dobot Maze Solver Robot  
+
+![Maze Solution](results/solution_overlay.png)
 
 This project implements a vision-based autonomous maze solving system using the Dobot Magician Lite robot.  
 
