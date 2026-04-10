@@ -14,38 +14,38 @@ Robotic Motion Execution
 
 🚀 Features
 
-Detects maze structure from camera input
-Converts maze into a grid representation
-Computes shortest path using BFS
-Maps pixel coordinates to robot workspace
-Executes path using robotic arm
+Detects maze structure from camera input  
+Converts maze into a grid representation  
+Computes shortest path using BFS  
+Maps pixel coordinates to robot workspace  
+Executes path using robotic arm  
 
 🛠️ Tech Stack
 
-Python
-OpenCV
-NumPy
-Dobot API
+Python  
+OpenCV  
+NumPy  
+Dobot API  
 
 ⚙️ Pipeline
 
-Capture maze image from camera
-Apply perspective transformation
-Detect walls and free paths
-Generate binary grid
-Solve maze using BFS
-Convert to robot coordinates
-Execute trajectory
+Capture maze image from camera  
+Apply perspective transformation  
+Detect walls and free paths  
+Generate binary grid  
+Solve maze using BFS  
+Convert to robot coordinates  
+Execute trajectory  
 
 📷 Demo
 
-👉 Watch the robot solve the maze
+👉 Watch the robot solve the maze  
 https://www.youtube.com/shorts/gi8C1Oyw_Mk
 
 ⚠️ Challenges & Solutions
 
-Color detection tuning (HSV adjustments)
-Robot reachability constraints
-Calibration accuracy improvements
+Color detection tuning (HSV adjustments)  
+Robot reachability constraints  
+Calibration accuracy improvements  
 📄 Report
 Full project report available in /report
