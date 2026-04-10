@@ -47,5 +47,7 @@ https://www.youtube.com/shorts/gi8C1Oyw_Mk
 Color detection tuning (HSV adjustments)  
 Robot reachability constraints  
 Calibration accuracy improvements  
+
 📄 Report
+
 Full project report available in /report
