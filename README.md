@@ -44,8 +44,7 @@ Execute trajectory
 👉 Watch the robot solve the maze  
 https://www.youtube.com/shorts/gi8C1Oyw_Mk  
 
-![Robot Demo](results/IMG_5766.HEIC)
-
+<img src="results/IMG_5766.png" width="300">
 
 ⚠️ Challenges & Solutions
 
