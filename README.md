@@ -42,7 +42,9 @@ Execute trajectory
 📷 Demo
 
 👉 Watch the robot solve the maze  
-https://www.youtube.com/shorts/gi8C1Oyw_Mk
+https://www.youtube.com/shorts/gi8C1Oyw_Mk  
+
+![Robot Demo](results/IMG_5766.HEIC)
 
 ⚠️ Challenges & Solutions
 
